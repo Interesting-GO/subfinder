@@ -32,3 +32,4 @@ checksums.txt
 build/
 
 vendor/
+.idea
